@@ -62,7 +62,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ---
 
-**Observação:** Substitua `seu-usuario` pelo seu nome de usuário do GitHub no comando de clonagem.
-
 Este arquivo `README.md` fornece uma descrição completa do seu projeto ToDo App, incluindo instruções de uso, detalhes de implementação, funcionalidades, possíveis melhorias e informações sobre contribuições.
 
