@@ -46,7 +46,7 @@ Um aplicativo de lista de tarefas simples e responsivo construído com HTML, CSS
 * **Filtrar Tarefas:** Digite no campo "Filtrar tarefas" para mostrar apenas as tarefas que correspondem ao texto inserido.
 * **Contagem de Tarefas:** Exibe o número total de tarefas na lista.
 * **Limpar Todas as Tarefas:** Clique no botão "Limpar Todas" para remover todas as tarefas da lista.
-* **Persistência com LocalStorage:** As tarefas são salvas automaticamente no navegador do usuário, persistindo mesmo após fechar a página.
+*  ~~Persistência com LocalStorage:** As tarefas são salvas automaticamente no navegador do usuário, persistindo mesmo após fechar a página.~~
 * **Design Responsivo:** O layout do aplicativo se adapta a diferentes tamanhos de tela para uma melhor experiência em dispositivos móveis e desktops.
 
 ### Possíveis Melhorias:
